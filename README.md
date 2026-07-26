@@ -4,7 +4,7 @@ A real-time visual effect using your webcam to create Doctor Strange style magic
 
 ## Installation
 
-1. Install Python 3.
+1. Install Python 3.12
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
